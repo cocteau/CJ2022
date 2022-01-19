@@ -1,0 +1,97 @@
+National:
+
+ 
+
+Housing:
+
+HUD works with USPS on collecting 'vacant' or 'no-stat' housing; however, this
+
+data set is full of challenges when it comes to extracting an accurate portrait
+
+of tracking neighborhood level changes. With some effort, a limited portrait of
+
+neighborhood vacancies could probably be combined with Census or other HUD data
+
+sets to tell stories of either urban depopulation or re-vitalization. Example:
+
+https://www.politico.com/news/magazine/2021/12/07/chicago-black-population-decline-523563
+
+ 
+
+Trade:
+
+US Foreign Trade data is available monthly for various points. While the data
+
+does not track the complete path of goods - only the volume at the ports - it
+
+can still be used to illustrate the effect of various supply shocks or demand
+
+changes in terms of the total amount of 'stuff' being imported and exported. It
+
+will require a lot of time understanding the nuances of trade data.
+
+ 
+
+Transportation:
+
+The federal DOT has comprehensive monthly data on all the transit agencies of the
+
+country - various metrics and categorizations, which can be used to answer
+
+questions like "which networks have the highest proportion of fare-beaters."
+
+The data set also allows us to answer COVID related public transit questions.
+
+ 
+
+Along similar lines is the freight rail data set from the STB, which collects
+
+performance metrics for the Class I freight railroads. This can be used to talk
+
+about congestion and (in a very limited way) movements between hubs.
+
+ 
+
+Labor:
+
+OSHA has safety complaint and inspection data, as well as specific breakouts for
+
+COVID-19, industrial air quality, and severe injury reports. This includes
+
+industry labels and county, but the data set is very messy and has a lot of
+
+methodological considerations.
+
+ 
+
+NYC specific:
+
+ 
+
+The NYPD misconduct database. This has been an evolving data set as the NYCLU
+
+and CCRB continue to negotiate release of the data, but it is a comprehensive
+
+repository of complaints made by the public on record at the CCRB.
+
+ 
+
+Motor vehicle crashes - NYC open data has a very messy data set (in terms of
+
+address parsing) of crashes. The good thing about the data set is it has
+
+pedestrians/cyclists/motorists injured/killed, and at least in some cases a
+
+prescribed "contributing factor" that appears to be somewhat standardized
+
+(following closely, driver inattention, etc).
+
+ 
+
+Lastly, a more lighthearted interesting data set, but NYC has a film permit
+
+database. This could be used in a few ways, but mostly to talk about the
+
+most-filmed bits of the city. One question this raises is what areas become
+
+"representative", in terms of what gets portrayed in TV/film, versus what areas don't.
