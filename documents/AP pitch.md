@@ -3,6 +3,8 @@
 
 The cheap and fast transportation of people and goods is a fundamental requirement of modern economic life. Supply chain bottlenecks and a suge in work-from-home have put new focus on the vast enterprise of movement that runs  through every part of the country. Beyond raw economic factors there is also the social element of communities  served and under-served by the web of logistics around us, and unresolved questions about what the future will look like.
 
+[Larry Fenn](https://apnews.com/article/1382560004), The Associated Press
+
 <hr>
 
 The AP has also come up with other potential pitches. We've included them here as alternative choices.
