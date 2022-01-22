@@ -1,3 +1,5 @@
+[Kaveh Waddell](https://www.consumerreports.org/cro/about-us/our-people/experts/kaveh-waddell/index.htm), Consumer Reports
+
 America's obsession with online shopping accelerated during the pandemic, and retailers have accommodated the 
 surge by expanding their delivery networks dramatically. But next-day e-commerce brings many negative 
 externalities—including to the neighborhoods that play host to large e-commerce warehouses.
