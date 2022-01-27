@@ -1,0 +1,161 @@
+We Made a Map. It’s Probably Wrong
+
+By Brenda Goodman, MA , Andy Miller
+
+Brenda Goodman is a senior news writer for WebMD and Medscape. Andy Miller is editor and CEO of Georgia Health News. 
+
+June 28, 2021 -- Anyone should be able to look at this map we created and learn what percentage of health care workers at their local hospital have not yet been vaccinated against COVID-19.  
+
+That may not be possible, however, because some hospitals say the data are incorrect.  The information was directly sourced from the U.S. Department of Health and Human Services (HHS), which compiled its numbers from hospital surveys. So how could the numbers be wrong?
+
+The answer to that question is complicated.
+
+In the end, though, the shoddy data mean neither the government nor the public have enough visibility into vaccination coverage inside the nation’s hospitals, where surprising pockets of vaccine hesitancy persist.
+
+Before COVID-19, the government collected some health information from hospitals, but that data was primarily based around insurance billing. And it was historical information, released months or even years after the fact.
+
+When the pandemic arrived in the United States, policy makers needed a snapshot of conditions inside hospitals in real time, but there was no system set up to collect information on things like hospital capacity, staffing levels, and equipment shortages. 
+
+In March 2020, Vice President Mike Pence, who was the head of the White House Coronavirus Task Force, sent a letter to hospital administrators across the country asking for daily reports.
+
+The government devised a survey of 32 questions -- it has since been expanded -- that hospitals were supposed to answer each day. The questions ask about things like the number of staffed ICU beds, ventilators, numbers of COVID-positive patients, and COVID-19 deaths. 
+
+It’s a wide-ranging survey that requires hospitals to compile information from different internal departments. Many hospitals, which were already struggling to cope with increased patient loads, found the new data collection onerous.
+
+There were several false starts. The American Hospital Association says the administration even threatened last June to send National Guard troops into hospitals to collect the statistics.
+
+Then, in July 2020, Deborah Birx, MD, who was coordinator for the White House response, wrested control of the data collection system maintained by the CDC and gave it to a politically connected company called TeleTracking Technologies.   
+
+In August 2020, the government made answering all the questions -- except for the one about vaccinated staff -- one of the Conditions of Participation in the Medicare and Medicaid programs, meaning that if hospitals fall behind or fail to share their numbers, they don’t get reimbursed for their care.  Hospitals get millions from Medicare reimbursements annually.
+
+TeleTracking began collecting information from hospitals and reporting it to the federal government, which kept the information largely under wraps. It wasn’t publicly released until the Government Accounting Office made a series of critical recommendations urging HHS to make its data collection more transparent.
+
+So now, some of the data is on public view, but it’s not always useful because of all the flaws and inconsistencies.
+
+Based on spot checks done by Medscape Medical News and Georgia Health News, some hospitals have reported their data correctly. 
+
+With 49 hospitals, AdventHealth is one of the largest health systems in the U.S. At least 20 of those hospitals report fewer than half their workers have been vaccinated against COVID-19.
+
+Jeff Grainger, a spokesperson for AdventHealth, confirmed the vaccination numbers reported to HHS were correct but says they probably underestimate the true number of workers who have gotten their shots since the hospital system can’t account for cases where workers go off campus to be inoculated, such as to a local pharmacy or mass vaccination site.
+
+AdventHealth Orlando, the fifth largest hospital in the U.S. according to Becker’s Hospital Review, reported 56% of workers were still unvaccinated as of the week of June 4, 2021.
+
+The hospital says it has surveyed its employees about taking the COVID-19 vaccines and used that information to shape messaging, but it has not taken other steps, such as offering bonuses for participation in the vaccination campaign, as some other health systems have.  
+
+Grainger says they require employees to get flu vaccines and may do the same for COVID-19 vaccines after they have been fully licensed by the FDA.
+
+AdventHealth is affiliated with the Seventh Day Adventist church, though the church does not own or operate the hospitals, Grainger says in a statement. 
+
+The Seventh Day Adventist church has issued a statement in support of “responsible immunization/vaccination.”
+
+Other hospitals have misunderstood how to report.
+
+According to HHS data, only 4% of the nearly 12,000 people who work with patients at Grady Memorial Hospital are unvaccinated. That includes staff and contractors. But the hospital says that number is wrong. Instead, 45% of workers at Atlanta’s public hospital, a busy level 1 trauma center, are still unvaccinated.
+
+Grady says they accidentally counted any health care worker they vaccinated -- even the ones that don’t work at their hospital -- in the running total of vaccinated workers at their facility. 
+
+On the other end of the spectrum is Geisinger Health System in Pennsylvania. At their hospital in Danville, federal data show 98% of workers are unvaccinated. The hospital says that’s incorrect: They estimate 28% of employees at that campus remain unvaccinated.
+
+Geisinger, like many hospitals across the country, reports its numbers to its state health department, which in turn, sends the data to the federal government. 
+
+The federal government allowed state health departments or hospital associations to become certified to report the information on behalf of their hospitals.
+
+When pressed, a Geisinger spokesperson says she couldn’t explain why the numbers were wrong. She suggested we reach out to HHS and the state health department for more answers.
+
+Amber Liggett, a spokesperson for the Pennsylvania Department of Health, confirmed that they have been collecting information daily from the state’s hospitals and passing it to the federal government.
+
+Health departments are useful conduits because this data allows them to see where problems may lurk at the state and local level. But the Pennsylvania Department of Health isn’t using the vaccination data because it is so flawed.
+
+“We don’t know what data verification is happening at either the facility or federal level; and there currently isn’t any at the state level,” Liggett says in an email.
+
+Another common mistake has to do with the idea of running totals. 
+
+Hospitals were asked to report the vaccination data once a week, on Wednesdays.
+
+The numbers are meant to be cumulative. If a hospital inoculated 5 workers in its first week, and then another 5 its second week, the totals reported for weeks one and two should be 5 and 10, respectively, according to this explainer by the CDC.
+
+Some hospitals, like CalvertHealth in Prince Frederick, MD, are reporting their numbers week by week, relying on the government to add them up.  Using the numbers in the example above, the hospital’s totals for week one and week two would be 5 and 5.
+
+CalvertHealth is also moving vaccinated workers into the unvaccinated column if they didn’t get their shots that week. 
+
+Let’s say a nurse named Fred works at CalvertHealth. Fred got his second shot of a Pfizer vaccine on Friday, June 4.  The next Wednesday, the hospital would report him among their fully vaccinated workers for that week.  The following week, though, Fred would get moved to a column tracking unvaccinated workers because, the hospital told us, he wasn’t among the workers vaccinated that week. 
+
+As a result, it looks like CalvertHealth’s numbers of unvaccinated workers are growing week over week, while their number of fully vaccinated workers is getting smaller since they’ve hit a saturation point with vaccinations at their hospital.
+
+When we run our calculation, it looks like nearly all of CalvertHealth’s employees are unvaccinated, but the hospital tells us that’s incorrect -- about 30% still have not gotten their shots.
+
+In other cases, the data is being collected but states are blocking the release of the information. 
+
+We approached Houston Methodist Hospital to find out why its numbers are not in the database. The hospital’s CEO has been outspoken on the issue of worker vaccinations and has been publicly announcing the hospital’s progress.
+
+Houston Methodist was confused too. They were reporting the numbers, they insisted.
+
+It turns out that while Houston Methodist is sending the data to the Texas Department of State Health Services (DSHS), the state is blocking the release of the numbers.
+
+In fact, only 4% of Texas hospitals have numbers in the system.
+
+Chris Van Deusen, a spokesperson for DSHS, says the agency was withholding the numbers because they were voluntary fields “and the confusing and overlapping nature of the questions could lead to skewed data.”
+
+In Nevada, just 2% of hospitals are reporting the vaccination status of their workers.
+
+Amy Shogren, a spokesperson for the Nevada Hospital Association, admitted they are not collecting vaccination data from the state’s hospitals for the government’s HHS database since Nevada’s Hospitals report that information to a different database designed to collect information on vaccine administration. She declined to say why the numbers couldn’t be reported in both systems.
+
+Vaccination of health care workers matters because it protects these frontline professionals who work in occupations most likely to put them in contact with the SARS-CoV-2 virus.  More than 3,600 health care workers have died over the course of the pandemic in the U.S., according toa recent investigationby Kaiser Health News and The Guardian.
+
+It is also a patient safety issue. People who catch COVID-19 spread the virus before they show any symptoms. So a health care worker could pass the virus to vulnerable patients before they even knew to stay home from work, especially if they work in a setting where there’s no regular testing program in place.  
+
+While someone who is healthy might not experience a severe COVID-19 infection, a patient whose immune system is weakened by medication or a health condition could die.
+
+Houston Methodist Hospital, in Texas, recently announced nearly 100% of its health care workers were vaccinated after they became the first hospital in the nation to mandate the vaccines. Other hospitals followed suit, bolstered by a ruling from the Equal Opportunity Employment Commission saying that employers could require the vaccines as long as they offered reasonable exemptions for workers.
+
+But there are still many hospitals in the U.S., particularly in rural areas, where large portions of the staff are still unvaccinated. And there’s no way for patients to find out before they walk in.
+
+Letitia Armstrong recently took her husband to Baptist Health in Lexington, KY, where she reassured the nurse who was treating him that both she and her husband were fully vaccinated, adding “I’m sure you’ve had your vaccine, too.”
+
+He said he had not. When she asked why, he said, “Well, I’m young, and I figure if I get it I wouldn’t get very sick.”
+
+Armstrong, who runs an eldercare company in the area, says she was furious. Because her husband was very ill and the nurse was working on him, she held her tongue.
+
+Baptist Health isn’t reporting data on vaccinations of its health care workers, and it doesn’t have to. Reporting is voluntary. 
+
+About 48% of hospitals across the country have declined to reveal the vaccination status of their workforce to the federal database, or their state isn’t providing it.
+
+Patient safety experts think the staff vaccination numbers should be required, too.
+
+Reporting of employee vaccination rates "should be mandatory so patients can make a decision [of hospitals] if they have a choice,'' says Mark Ebell, MD, professor of epidemiology and biostatistics at the University of Georgia in Athens. 
+
+"For someone who is immunocompromised in a hospital, the last thing they need is to get a serious infection,” he says.
+
+Like so many other areas of public health, decades of underfunding and complacency weakened America’s public health data collection. The pandemic blew holes right through it.
+
+“We weren’t ready for it,” says Charles Rothwell, former director of the National Center for Health Statistics, who retired in January 2019 after 3 decades at the agency. 
+
+Though Rothwell and others sounded warnings that America’s public health data systems needed more investment, he says he feels personally responsible for not making a compelling enough case to be heard by policy makers. “We should have been better prepared,” he says.
+
+Even as the U.S. took weeks to develop and then scale an effective test for the virus, public health agencies were struggling to compile even the most basic numbers on the health emergency.  
+
+Journalists and data experts at nonprofits jumped in to fill the gaps with invaluable and heroic efforts like the COVID Tracking Project and COVID Exit Strategy. The COVID Tracking Project, started by journalists at The Atlantic, used a network of hundreds of volunteers to compile daily numbers on cases, hospitalizations, tests, and deaths. COVID Exit Strategy, which looked at trends in daily cases and tests, was helmed by a group of public health and data experts who worked for nonprofits and universities.
+
+“We're talking about basic data about how many people are in the hospital. What are they in for? How many people died? And how much protective equipment do you have?” says Jennifer Madans, who recently served as acting director of the National Center for Health Statistics.
+
+She says the U.S. has whole agencies with expertise in how to collect and report information like this, but they were not tapped for help.
+
+Instead, the contract was given to TeleTracking, which has been populating the HHS Protect dataset, the data we used to make our map.
+
+So now, the data is on public view, but it’s not always useful because of all the flaws and inconsistencies.
+
+That’s not surprising to Madans, who says the U.S. historically has spent more money and resources on tracking agriculture statistics than it spends compiling basic health information.
+
+In March 2020, the government allocated $500 million to the CDC through the CARES act to upgrade its data collection activities.
+
+But experts say more money is still needed to help our health data infrastructure catch up, and efforts are underway to improve the system.
+
+A bipartisan group of lawmakers introduced the Health Statistics Act in February to fix information gaps and barriers that were exposed by the pandemic. The act would allocate another $450 million to the system, as well as standardize health data collection and require the government to share it more broadly across agencies.
+
+And it would require the participation of agencies like the National Center for Health Statistics (NCHS) that have expertise in this kind of data collection.
+
+Madans says the investment is long overdue and has never been more urgent. 
+
+She says if NCHS had put out a database like the one we used to make our map and it was found to be so full of flaws, “we would have been just destroyed. It would have been terrible.”
+
+ Chris Bolton contributed additional reporting.
